@@ -1,0 +1,5 @@
+E:\GITHUB\fii-tsp\Labs\CodeFirstEF\bin\Debug\netcoreapp3.1\CodeFirstEF.deps.json
+E:\GITHUB\fii-tsp\Labs\CodeFirstEF\bin\Debug\netcoreapp3.1\CodeFirstEF.dll
+E:\GITHUB\fii-tsp\Labs\CodeFirstEF\obj\Debug\netcoreapp3.1\CodeFirstEF.csprojAssemblyReference.cache
+E:\GITHUB\fii-tsp\Labs\CodeFirstEF\obj\Debug\netcoreapp3.1\CodeFirstEF.AssemblyInfoInputs.cache
+E:\GITHUB\fii-tsp\Labs\CodeFirstEF\obj\Debug\netcoreapp3.1\CodeFirstEF.AssemblyInfo.cs
